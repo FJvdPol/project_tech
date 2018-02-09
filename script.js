@@ -70,3 +70,6 @@ newobject.d(); // fires the function sitting in property "d" within newobject
 // ------------- Arrays --------------------
 var newarray = [10, 20, 30, 40];
 console.log(newarray[0], newarray[1]); // logs 10 20 (array indexes start at 0);
+
+
+/*==-/|\-==*/
